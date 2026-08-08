@@ -54,7 +54,6 @@ ecommerce-sql-analytics/
 4. Run the analysis scripts in `sql/`.
 5. Review `insights/business_insights.md`.
 
-**Do not commit database passwords, API keys, connection strings, or other credentials.**
 
 ## Author
 **Diwash Upadhyaya** — Data Analyst Portfolio Project
